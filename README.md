@@ -37,7 +37,7 @@ I’m currently learning HTML, CSS, JS, ReactJS, Python, Django. 🚀
 
 <p float="left">
   
-  <a href="mailto:ravisingh8115@gmail.com" target="_blank" >
+  <a href="mailto:faizuddinansari53@gmail.com" target="_blank" >
     <img src="https://www.clipartkey.com/mpngs/m/230-2300906_transparent-outlook-icon-png-small-email-logo-png.png"  height="40" />
   </a>
  </p>
