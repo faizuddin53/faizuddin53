@@ -7,7 +7,7 @@
 
 
 
-I’m currently learning HTML, CSS, JS, ReactJS, Python, Django. 🚀
+I’m currently working on  HTML, CSS, JS,Angular ,  ReactJS, Node Js. 🚀
 
 
 <p float="left">
